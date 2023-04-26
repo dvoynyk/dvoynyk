@@ -15,3 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
  <h1 align="center">Hi there, I'm Elizaveta 👋</h1>                
+<h4 align="left"> 🔭 I’m currently working on web-application</h4
